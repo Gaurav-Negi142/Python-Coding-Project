@@ -1,2 +1,46 @@
 # Python-Coding-Project
-This is a curated collection of 30 Python tasks showcasing loops, OOP, error handling, and real-world problem solving. Designed as a capstone project to demonstrate coding fundamentals through practical, interactive examples.
+
+Welcome to the **Python Coding Project** repository!  
+This project is a comprehensive collection of **30 Python tasks** designed to demonstrate core programming concepts, problem-solving skills, and practical applications of Python. It serves as a capstone project showcasing proficiency in loops, conditionals, functions, object-oriented programming (OOP), and error handling.
+
+---
+
+## 📖 Project Overview
+The repository contains solutions to diverse coding challenges, ranging from simple calculations to real-world inspired scenarios. Each task is implemented with clean, well-structured code and includes explanations to make the logic easy to follow.
+
+Key concepts covered:
+- Data types, indexing, and slicing
+- Operators and in-built functions
+- Statements, indentation, and conditionals
+- Loops and iterations (for, while, nested loops)
+- Custom functions
+- Advanced looping concepts
+- Object-Oriented Programming (classes, methods, encapsulation)
+- Exception handling
+
+---
+
+## 🎯 Selected Tasks for Video Explanation
+As part of the project submission, five tasks are explained in detail through a video walkthrough:
+1. **Guess the Number** – Random number guessing game using loops and conditionals.  
+2. **Calculator (OOP)** – A class-based calculator implementing arithmetic operations.  
+3. **Basketball Game (while loop)** – Simulating scoring until a target is reached.  
+4. **Bank Account (OOP)** – Class with deposit/withdraw methods and error handling.  
+5. **Time Conversion (OOP)** – Converting 24-hour format to 12-hour format with AM/PM and input validation.
+
+---
+
+## 📂 Repository Structure
+- `tasks/` → Contains Python scripts for each of the 30 tasks  
+- `README.md` → Project documentation  
+- `video_link.txt` → Link to video explanation (5 selected tasks)  
+
+---
+
+## 🚀 How to Run
+Clone the repository and run any task file using Python 3:
+
+```bash
+git clone https://github.com/your-username/Python-Coding-Project.git
+cd Python-Coding-Project/tasks
+python task_name.py
