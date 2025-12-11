@@ -29,18 +29,3 @@ As part of the project submission, five tasks are explained in detail through a 
 5. **Time Conversion (OOP)** – Converting 24-hour format to 12-hour format with AM/PM and input validation.
 
 ---
-
-## 📂 Repository Structure
-- `tasks/` → Contains Python scripts for each of the 30 tasks  
-- `README.md` → Project documentation  
-- `video_link.txt` → Link to video explanation (5 selected tasks)  
-
----
-
-## 🚀 How to Run
-Clone the repository and run any task file using Python 3:
-
-```bash
-git clone https://github.com/your-username/Python-Coding-Project.git
-cd Python-Coding-Project/tasks
-python task_name.py
